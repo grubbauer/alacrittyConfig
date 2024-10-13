@@ -1,0 +1,5 @@
+import = ["~/AppData/Roaming/alacritty/font.toml",
+          "~/AppData/Roaming/alacritty/colors.toml",
+          "~/AppData/Roaming/alacritty/window.toml",
+          "~/AppData/Roaming/alacritty/shell.toml"]
+
